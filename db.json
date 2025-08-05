@@ -14,7 +14,12 @@
     { "id": 4, "title": "my-json-server", "author": "typicode" }
   ],
   "comments": [],
-  "profile": {},
+  "profile": {
+    "name": "김박사",
+    "생년월일": "1950-06-01",
+    "성별": "남성",
+    "등급": "Gold"
+  },
   "score": [
     { "hakbun": 20250001, "irum":"홍길동", "kor":90, "eng":80, "mat":70 },
     { "hakbun": 20250002, "irum":"김길동", "kor":80, "eng":70, "mat":60 },
